@@ -11,14 +11,6 @@ import RealmSwift
 
 class Task:Object{
     dynamic var title = ""
-    dynamic var date = Date(timeIntervalSince1970: 11222121)
+    dynamic var date : Date! = nil
     dynamic var priority = 0
-//    init(title:String,date:Date,priority:Int) {
-//        self.title=title
-//        self.date=date
-//        self.priority=priority
-//    }
-//    required init(){
-//        super.init()
-//    }
 }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C379D4501F15EEDF007C35AE /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C379D44F1F15EEDF007C35AE /* AddTaskViewController.swift */; };
 		C381249D1F152152002A7866 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C381249C1F152152002A7866 /* AppDelegate.swift */; };
 		C38124A21F152152002A7866 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C38124A01F152152002A7866 /* Main.storyboard */; };
 		C38124A41F152152002A7866 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C38124A31F152152002A7866 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C379D44F1F15EEDF007C35AE /* AddTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 		C38124991F152152002A7866 /* TheStrew.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheStrew.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C381249C1F152152002A7866 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C38124A11F152152002A7866 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				C39580FC1F152DB700A0DB09 /* ToDoTableViewController.swift */,
 				C39580FE1F15343600A0DB09 /* Task.swift */,
 				C38124A01F152152002A7866 /* Main.storyboard */,
+				C379D44F1F15EEDF007C35AE /* AddTaskViewController.swift */,
 				C39581001F154B6200A0DB09 /* SortViewController.swift */,
 				C38124A31F152152002A7866 /* Assets.xcassets */,
 				C38124A51F152152002A7866 /* LaunchScreen.storyboard */,
@@ -173,6 +176,7 @@
 				C39580FF1F15343600A0DB09 /* Task.swift in Sources */,
 				C39581011F154B6200A0DB09 /* SortViewController.swift in Sources */,
 				C39580FD1F152DB700A0DB09 /* ToDoTableViewController.swift in Sources */,
+				C379D4501F15EEDF007C35AE /* AddTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
